@@ -1,0 +1,27 @@
+{
+  "name": "api-people-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-Goletto/API-people-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julien-Goletto/API-people-data/issues"
+  },
+  "homepage": "https://github.com/Julien-Goletto/API-people-data#readme",
+  "dependencies": {
+    "@faker-js/faker": "^6.1.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "pg": "^8.7.3"
+  }
+}
